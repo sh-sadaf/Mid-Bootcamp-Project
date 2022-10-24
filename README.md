@@ -28,7 +28,7 @@ Data has been collected from Kaggle.It consists of 2240 datapoints. Definition o
 - NumWebPurchases - number of purchases made through company’s web site
 - NumWebVisitsMonth - number of visits to company’s web site in the last month
 - Recency - number of days since the last purchase
-## Process
+## Steps
 ### 1. Data Cleaning and Exploration
 All the features of dataset has been explored and cleaned. New features has been added and redundant were removed. 
 ### 2. EDA at Tableau
